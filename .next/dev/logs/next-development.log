@@ -1,0 +1,195 @@
+[00:00:00.792] Server  LOG     ✓ Ready in 538ms
+[00:01:01.215] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:01:01.735] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:01:07.054] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:23.009] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.013] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.014] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.014] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.014] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.014] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.019] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:23.019] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="false", hide=true
+[00:02:24.342] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:24.342] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:36.568] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:36.568] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:41.624] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.625] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:41.625] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:44.658] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:45.569] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:45.569] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:47.284] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:47.284] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:47.284] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:47.284] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:50.270] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:50.270] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="true", hide=false
+[00:02:50.271] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:51.685] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:51.685] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:51.685] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:51.685] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:02:58.238] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:58.238] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:58.238] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:58.238] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:58.238] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:02:58.238] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:02:58.238] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderBottomColor borderBottom
+[00:07:48.030] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.031] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.031] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="false", hide=true
+[00:07:48.031] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:07:48.031] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="false", hide=true
+[00:07:48.031] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.031] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.031] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="false", hide=true
+[00:07:48.031] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:07:48.031] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="false", hide=true
+[00:07:48.760] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:07:48.760] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:07:48.760] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:07:48.760] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:07:48.760] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderColor border
+[00:08:09.933] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:09.933] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:09.933] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:09.933] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:09.934] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:09.934] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:09.934] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:09.934] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:09.934] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:09.934] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:52.149] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.149] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:52.149] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:08:52.150] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:08:52.150] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderBottomColor borderBottom
+[00:09:54.087] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.087] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.087] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.087] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.087] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderBottomColor borderBottom
+[00:09:54.865] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.865] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:54.865] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:54.865] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderBottomColor borderBottom
+[00:09:56.415] Browser LOG     Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:56.415] Browser LOG     Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_03: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_1_04: depends on ID 11, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:56.415] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q1_4_04: depends on ID 51, expected="true", actual="false", hide=true
+[00:09:56.415] Browser LOG     [2;38;2;124;124;124m%s[0m Question Q2_6_06: depends on ID 136, expected="true", actual="true", hide=false
+[00:09:56.415] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Removing borderBottomColor borderBottom
